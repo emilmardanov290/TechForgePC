@@ -35,7 +35,7 @@ const categoriesData = [
   },
   {
     name: "PC Parts",
-    image: "https://onthespotrepairs.com/wp-content/uploads/2024/08/PC-Assembly-Service-Build-A-PC-Parts-1.png",
+    image: "https://www.pngall.com/wp-content/uploads/2016/04/Motherboard-Download-PNG.png",
     subcategories: [
       {
         name: "Components",
